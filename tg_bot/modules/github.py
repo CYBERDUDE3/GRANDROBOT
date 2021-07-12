@@ -36,7 +36,7 @@ def github(bot: Bot, update: Update):
 
 
 __help__ = """
- - /git:{GitHub username} Returns info about a GitHub user or organization.
+ - /help
 """
 
 __mod_name__ = "GITHUB"
